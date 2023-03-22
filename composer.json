@@ -1,0 +1,16 @@
+{
+    "name": "8ctopus/php-spx-stubs",
+    "type": "library",
+    "description": "Stubs for php-spx",
+    "keywords": ["php spx", "stubs"],
+    "homepage": "https://github.com/8ctopus/php-spx-stubs",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "8ctopus",
+            "email": "hello@octopuslabs.io"
+        }
+    ],
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
